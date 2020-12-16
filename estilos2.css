@@ -1,0 +1,26 @@
+body {
+    font-size: 18px;
+    font-family: rubik;
+    font-weight: 400, 500, 700;
+    /* color: hsl(0, 0%, 17%);
+    color: hsl(0, 0%, 59%); */
+    margin: 0;
+}
+
+.principal {
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    background-color: purple;
+}
+
+.tituloPrincipal {
+    font-weight: 700;
+    color: white;
+
+}
+
+#googleMap {
+    height: 100%;
+    width: 100%;
+}
